@@ -69,9 +69,11 @@ Accéder à l'application : http://127.0.0.1:8000/
 2) capture de liste de produit
    <img width="945" height="496" alt="image" src="https://github.com/user-attachments/assets/ab8d2ff5-db94-4f3a-821f-b6ab9e09d883" />
 3) capture de détails du produit
-   <img width="945" height="496" alt="image" src="https://github.com/user-attachments/assets/e694b2a2-4ead-4542-a660-cf0ae05e403c" />
+   <img width="1355" height="718" alt="Capture d&#39;écran 2026-05-11 111404" src="https://github.com/user-attachments/assets/80105018-345e-4de4-91ea-6bf18ad6c2fa" />
+
 4) capture de la page d'inscription
-   <img width="945" height="496" alt="image" src="https://github.com/user-attachments/assets/663b63d4-daca-4391-8560-9472455ad95c" />
+   <img width="1365" height="721" alt="Capture d&#39;écran 2026-05-11 111526" src="https://github.com/user-attachments/assets/ce5b19b8-0c22-4e5f-b34e-d21fef20e0bd" />
+
 5) capture de la page de connexion
    <img width="945" height="494" alt="image" src="https://github.com/user-attachments/assets/7a78ea74-20db-4566-8baa-012fe882fa1e" />
 6) capture de la page de profile après connexion
