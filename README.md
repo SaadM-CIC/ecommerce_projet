@@ -1,5 +1,5 @@
 E-commerce Project - ZenithCore
-Ce projet est une application de commerce électronique développée avec Django. Il permet de gérer un catalogue de produits complet, incluant l'organisation par catégories, la gestion des stocks, et un système d'authentification sécurisé pour les utilisateurs.
+Ce projet est une application de commerce électronique développée avec Django. Il permet de gérer un catalogue de produits complet, incluant l'organisation par catégories, la gestion des stocks, et un système d'authentification sécurisé pour les utilisateurs.  
 
  Fonctionnalités
 Gestion du Catalogue : Affichage dynamique des produits et des catégories.
