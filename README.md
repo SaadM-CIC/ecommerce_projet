@@ -79,3 +79,5 @@ Appliquer les migrations : python manage.py migrate
 Lancer le serveur : python manage.py runserver
 
 Accéder à l'application : http://127.0.0.1:8000/
+
+<img width="945" height="501" alt="image" src="https://github.com/user-attachments/assets/9ebe51a9-ff98-4a5f-a57d-dfcd33d3e16f" />
